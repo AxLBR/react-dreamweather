@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-dreamweather/static/js/main.b14e2c2b.js",
+    "static/media/logo.png": "/react-dreamweather/static/media/logo.0a3098a6e4db6d14cddc.png",
+    "static/media/full_moon.png": "/react-dreamweather/static/media/full_moon.63dfec3c3c9e9df4f5c0.png",
+    "index.html": "/react-dreamweather/index.html",
+    "main.b14e2c2b.js.map": "/react-dreamweather/static/js/main.b14e2c2b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b14e2c2b.js"
+  ]
+}
