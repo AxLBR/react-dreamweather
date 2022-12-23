@@ -6,7 +6,7 @@ export const InputContainer = styled.div`
     text-align: center;
     max-width: 600px;
     height: 62px;
-    width: 40%;
+    width: 90%;
     margin: 30px 20px 0px 20px;
     
     input {
@@ -26,10 +26,5 @@ export const InputContainer = styled.div`
 
     input:focus {
         outline: none;
-    }
-
-    @media (max-width: 1050px) {
-        width: 90%;
-
     }
 `

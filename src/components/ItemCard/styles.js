@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ItemContainer = styled.div`
-    width: 60%;
+    width: 80%;
     border: 1px solid #FAFAFA60;
     background-color: #ffffff22;
     border-radius: 25px;
@@ -147,7 +147,6 @@ export const ItemContainer = styled.div`
     }
 
     @media (max-width: 600px) {
-        width: 80%;
 
         .mainInfos {
             grid-template-columns: 1fr 3fr;

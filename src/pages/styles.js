@@ -25,7 +25,7 @@ export const Container = styled.div`
     }
 
     .containerCards {
-        max-width: 900px;
+        max-width: 700px;
         width: 100%;
         display:flex;
         flex-direction: column;
