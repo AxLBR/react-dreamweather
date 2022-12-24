@@ -191,7 +191,7 @@ function ItemCard({info}) {
 
             <div className='afterTomorrow'>
               <div className='titleAfterTomorrow'>
-                <p>Amanhã - {info.forecast.forecastday[2].date.slice(5, 10).split('-').reverse().join('/')}</p>
+                <p>Depois de Amanhã - {info.forecast.forecastday[2].date.slice(5, 10).split('-').reverse().join('/')}</p>
               </div>
 
               <div className='firstRow'>
